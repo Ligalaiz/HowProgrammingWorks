@@ -4,5 +4,5 @@ install-dependencies:
 lint:
 	npm run ci
 
-lint:
+test:
 	npm run test
