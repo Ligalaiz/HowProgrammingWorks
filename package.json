@@ -1,0 +1,19 @@
+{
+  "name": "example",
+  "private": true,
+  "version": "1.0.5",
+  "author": "Timur Shemsedinov <timur.shemsedinov@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "(eslint ./Exercises && false) || hpw",
+    "ci": "eslint ./Exercises && hpw"
+  },
+  "dependencies": {
+    "hpw": "^0.1.15"
+  },
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
