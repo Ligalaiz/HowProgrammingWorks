@@ -3,7 +3,7 @@
 const fn = () => {
   console.log(a);
   function a() {
-    return  'a';
+    return 'a';
   }
   return a;
 };
