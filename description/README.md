@@ -11,3 +11,5 @@
 ## [Частичное применение и каррирование](https://github.com/HowProgrammingWorks/PartialApplication)
 
 ## [Функции высшего порядка](https://github.com/HowProgrammingWorks/HigherOrderFunction)
+
+## [Массивы в JavaScript: методы Array](https://github.com/HowProgrammingWorks/Arrays)
